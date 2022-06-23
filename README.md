@@ -71,7 +71,7 @@ for further inspection.
 
 Next we ran another query to show only senior employees that may be eligible for the Mentorship program if we use parameter of 
 having senior, leader, or manager in their title instead of using tight date parameter in #4 specifically line: 
-' WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') '. This is too small of a parameter. Table below gives us 54,447 employees
+` WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') `. This is too small of a parameter. Table below gives us 54,447 employees
 that we can draw upon for the improved mentorship program that will help bridge the large gap this company has with the upcoming
 retirement vacancies.
 
