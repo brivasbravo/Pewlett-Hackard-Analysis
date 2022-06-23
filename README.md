@@ -13,7 +13,6 @@ retirement packages, and onboarding new employees. We will target the below:
 
 Need to create a quickDBD schema to help visualize how tables function together:
 
-QuickDBDsnap.png
 ![alt text](https://github.com/brivasbravo/Pewlett-Hackard-Analysis/blob/main/Resources/QuickDBDsnap.png)
 
 ### Background
